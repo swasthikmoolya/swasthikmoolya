@@ -1,0 +1,15 @@
+name: listen-auto-push-latest-blog-post 
+on:
+  repository_dispatch:
+    
+    types: [xxType]
+  workflow_dispatch:
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5" 
