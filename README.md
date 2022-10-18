@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @swasthikmoolya
-- 🤔 I’m interested in UI/UX and User interaction interface designing
+- 🤔 I’m interested in:
+   ->UI/UX and User interaction interface designing
+   ->Web-Developement
+   ->Python dev
 - 🌱 I’m currently learning engineering in computer science
 - 👀 I’m looking to collaborate on UI/UX workflows.
 - 📫 How to reach me : swasthikmoolya14@gmail.com
