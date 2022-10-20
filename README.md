@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swasthik Moolya</h1>
 <h3 align="center">I'm passionated front-end developer and UI/UX designer</h3>
-< align="right"> <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder">
+<p align="right"> <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swasthikmoolya" alt="swasthikmoolya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/swasthikmoolya" target="blank"><img src="https://img.shields.io/twitter/follow/swasthikmoolya?logo=twitter&style=for-the-badge" alt="swasthikmoolya" /></a> </p>
