@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Swasthik Moolya</h1>
+<h1 align="center">Hi, I'm Swasthik Moolya </h1>
 <h3 align="center">I'm passionated front-end developer and UI/UX designer</h3>
-<p align="right"> <img src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" alt="coder" hieght="200" width="200"/></p>
+<p align="right"> <img src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" alt="coder" hieght="500" width="500"/></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swasthikmoolya" alt="swasthikmoolya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/swasthikmoolya" target="blank"><img src="https://img.shields.io/twitter/follow/swasthikmoolya?logo=twitter&style=for-the-badge" alt="swasthikmoolya" /></a> </p>
@@ -18,6 +18,8 @@
 - 📫 How to reach me **swasthikmoolya14@gmail.com**
 
 - 😜 fun fact **My favorite type of food is south Indian spcl**
+
+<p align="center"> <img src="https://i.gifer.com/758X.mp4" alt="coder" hieght="500" width="500"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
