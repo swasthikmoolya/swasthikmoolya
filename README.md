@@ -19,7 +19,7 @@
 
 - 😜 fun fact **My favorite type of food is south Indian spcl**
 
-<p align="center"> <video src="https://i.gifer.com/758X.mp4" alt="coder" hieght="500" width="500"/></p>
+<p align="left"> <src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="coder" hieght="500" width="450"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
