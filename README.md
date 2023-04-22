@@ -1,40 +1,62 @@
-<h1 align="center">Hi, I'm Swasthik Moolya </h1>
-<h3 align="center">I'm passionated front-end developer and UI/UX designer</h3>
-<img src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" hieght="200" width="200"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swasthikmoolya" alt="swasthikmoolya" /></a> </p>
+<!--<p align="center"> <img src="#" /> </p>
+<p align="center"> <img src="#" /> </p>-->
 
-<p align="left"> <a href="https://twitter.com/swasthikmoolya" target="blank"><img src="https://img.shields.io/twitter/follow/swasthikmoolya?logo=twitter&style=for-the-badge" alt="swasthikmoolya" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=FFDE59" alt="crazychickendev" /> <img
+src="insta" alt="crazychickendev" /> <img
+src="twitter" alt="crazychickendev" /> <img
+src="linkedin" alt="0x00CCSec" /> </p>
 
-- 🔭 I’m currently working on **MOWENS mobile application**
-
-- 🌱 I’m currently learning **Python FullStack,Ruby,Kotlin**
-
-- 👯 I’m looking to collaborate on **UX designing**
-
-- 📝 I regularly write articles on [https://codingbeckon.blogspot.com/?m=1](https://codingbeckon.blogspot.com/?m=1)
-
-- 🏋️ my hobbies are **Drawing,HomeDJ,playing videogames,reading books**
-
-- 📫 How to reach me **swasthikmoolya14@gmail.com**
-
-- 😜 fun fact **My favorite type of food is south Indian spcl**
-
-<p align="left"> <src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="coder" hieght="500" width="450"/></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swasthikmoolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swasthikmoolya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swasthik-moolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swasthik-moolya" height="30" width="40" /></a>
-<a href="https://instagram.com/swasthik.moolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swasthik.moolya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/swasthik_mooly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swasthik_mooly" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@swasthikmoolya14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swasthikmoolya14" height="30" width="40" /></a>
+```javascript
+const Swasthik Moolya = {
+    pronouns: "he" | "him",
+    location: ["Karnataka, India"],
+    contact: ["swasthikmoolya14@gmail.com"],
+    portfolio: ["updating soon!!!"],
+    collaborations: ["IoT", "android open-source project", "python-programming", "cyber-security", 
+                    "C-programming","UI/UX designer","Ethical-Hacker","Android-Application-Developer"],
+    workingOn: ["building a solid career in the cyber-security and Developing Android Apps..."],
+    learning: ["front-End", "Cloud-Computing", "Test automation", "Machine-learning"],
+    askMeAbout: ["Side_hustle", "android rom development", "darknet diaries", "parrotOS", 
+                "tech", "cybersecurity", "NFTs", "music"],
+    hobbies: {
+        major: {
+            indoor: ["MusicMixing", "cooking","watching animes", "gaming","K-Drama"],
+	    outdoor: ["traveling", "BasketBal","Trekking","Motor-Ride"],
+        },
+        funFact: {
+            secret: ["I'm an introvert,but im crazy if you get to know me", "bitches XD"],
+        }        
+    }
+};
+```
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
+<h3 align="center">Tech Stack 🍗:</h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-ffb400?style=flat-square&logo=shell&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swasthikmoolya&show_icons=true&border_color=9966ff&locale=en&layout=compact&theme=radical" alt="swasthikmoolya" /></p> 
-‎
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swasthikmoolya&show_icons=true&border_color=9966ff&locale=en&theme=tokyonight" alt="swasthikmoolya" /></p>
-‎ 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swasthikmoolya&border_color=9966ff&locale=en&theme=radical" alt="swasthikmoolya" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
+<h3 align="center">I'm currently vibing to 🎧</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+
+<h2 align="center">Let's Connect :coffee:</h2></a>
+<p align="center">
+	<a href="https://github.com/CrazyChickenDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nwaobidaniel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+        <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+        <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
+</p>
+<!--<p align="center"> <img src="#" /> </p>-->
