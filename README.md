@@ -1,7 +1,7 @@
 <!--<p align="center"> <img src="#" /> </p>
 <p align="center"> <img src="#" /> </p>-->
 
-<p align="center"> <img src="https://www.canva.com/design/DAFg1r0ubbY/0pnBvWY5pwB6z4hoS9jvdw/view?utm_content=DAFg1r0ubbY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="crazychickendev" /> <img
+<p align="center"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/Swasthik%20Moolya.gif" alt="crazychickendev" /> <img
 src="insta" alt="crazychickendev" /> <img
 src="twitter" alt="crazychickendev" /> <img
 src="linkedin" alt="0x00CCSec" /> </p>
@@ -29,7 +29,7 @@ const Swasthik Moolya = {
     }
 };
 ```
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
+<p align="center"> <img src="https://sc1.checkpoint.com/threatmap/build/images/map-grid.svg" /> </p>
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
