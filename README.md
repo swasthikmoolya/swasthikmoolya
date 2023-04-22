@@ -29,7 +29,9 @@ const Swasthik Moolya = {
     }
 };
 ```
-<p align="center"> <img src="https://sc1.checkpoint.com/threatmap/build/images/map-grid.svg" /> </p>
+<p align="center"> <img src="(https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)" /> </p>
+
+<p align="center"> <img src="" /> </p>
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
