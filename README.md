@@ -1,7 +1,7 @@
 <!--<p align="center"> <img src="#" /> </p>
 <p align="center"> <img src="#" /> </p>-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=FFDE59" alt="crazychickendev" /> <img
+<p align="center"> <img src="https://www.canva.com/design/DAFg1r0ubbY/0pnBvWY5pwB6z4hoS9jvdw/view?utm_content=DAFg1r0ubbY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="crazychickendev" /> <img
 src="insta" alt="crazychickendev" /> <img
 src="twitter" alt="crazychickendev" /> <img
 src="linkedin" alt="0x00CCSec" /> </p>
