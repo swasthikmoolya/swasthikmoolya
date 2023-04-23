@@ -1,10 +1,8 @@
 <!--<p align="center"> <img src="#" /> </p>
 <p align="center"> <img src="#" /> </p>-->
 
-<p align="center"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/Swasthik%20Moolya.gif" alt="crazychickendev" /> <img
-src="insta" alt="crazychickendev" /> <img
-src="twitter" alt="crazychickendev" /> <img
-src="linkedin" alt="0x00CCSec" /> </p>
+<p align="center"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/Swasthik%20Moolya.gif" alt="crazychickendev" /> </p>
+<h1 align="left"> Hello, Guys </h1>
 
 ```javascript
 const Swasthik Moolya = {
@@ -29,10 +27,13 @@ const Swasthik Moolya = {
     }
 };
 ```
+
+<p align="center"> <img src="  "/> </p>
+
 [![](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
 
-<p align="center"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/20230423_113444_0000.png" height="50" width="50"/> </p>
-<h3 align="center">Tech Stack 🍗:</h3>
+<p align="left"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/20230423_113444_0000.png" height="250" width="250"/> </p>
+<h2 align="center">Skill-Stack:</h2>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
