@@ -5,7 +5,6 @@
 src="insta" alt="crazychickendev" /> <img
 src="twitter" alt="crazychickendev" /> <img
 src="linkedin" alt="0x00CCSec" /> </p>
-[![](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
 
 ```javascript
 const Swasthik Moolya = {
@@ -30,7 +29,7 @@ const Swasthik Moolya = {
     }
 };
 ```
-<p align="center"> <img src="(https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)" /> </p>
+[![](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
 
 <p align="center"> <img src="" /> </p>
 <h3 align="center">Tech Stack 🍗:</h3>
