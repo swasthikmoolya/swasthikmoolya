@@ -31,7 +31,7 @@ const Swasthik Moolya = {
 ```
 [![](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
 
-<p align="center"> <img src="" /> </p>
+<p align="left" height='50px' width='50px'> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/20230423_113444_0000.png" /> </p>
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
