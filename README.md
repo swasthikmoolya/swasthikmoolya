@@ -5,7 +5,7 @@
 src="insta" alt="crazychickendev" /> <img
 src="twitter" alt="crazychickendev" /> <img
 src="linkedin" alt="0x00CCSec" /> </p>
-[![An image of @swasthik_moolya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
+[![](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
 
 ```javascript
 const Swasthik Moolya = {
